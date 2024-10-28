@@ -1,0 +1,16 @@
+name: sensorimotor_social_group
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base=4.2
+  - r-reshape
+  - r-lattice
+  - r-latticeExtra
+  - r-car
+  - r-heplots
+  - r-lsr
+  - r-mgcv
+  - r-lmertest
+  - r-knitr
+  - r-rmarkdown
